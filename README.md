@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nihal Goud
+Hi 👋, I'm Nihal Goud
 
 🎓 B.Tech CSE Student at Shivajirao Kadam Institute of Technology and Management (RGPV)  
 💻 Passionate about Programming, Web Development & AI  
